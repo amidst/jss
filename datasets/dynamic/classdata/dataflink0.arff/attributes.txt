@@ -1,0 +1,13 @@
+@attribute SEQUENCE_ID 0 real
+@attribute TIME_ID 1 real
+@attribute DiscreteVar0 2 {0.0, 1.0}
+@attribute GaussianVar0 3 real
+@attribute GaussianVar1 4 real
+@attribute GaussianVar2 5 real
+@attribute GaussianVar3 6 real
+@attribute GaussianVar4 7 real
+@attribute GaussianVar5 8 real
+@attribute GaussianVar6 9 real
+@attribute GaussianVar7 10 real
+@attribute GaussianVar8 11 real
+@attribute GaussianVar9 12 real
