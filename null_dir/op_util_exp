@@ -1,9 +1,0 @@
-Start of evaluation: 
-Variable elimination: Cars_Conditions
-Variable elimination: PurchaseDecision
-Variable elimination: SecondTestResults
-Variable elimination: SecondTestDecision
-Variable elimination: FirstTestResults
-Variable elimination: FirstTestDecision
-
-Computation time: 0.133
